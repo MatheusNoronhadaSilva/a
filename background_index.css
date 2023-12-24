@@ -1,0 +1,14 @@
+
+body{
+    background-image: url("./img/Redbubble.jpeg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 120vh;
+}
+
+@media(max-width: 820px) {
+
+    body{
+        background-image: url("./img/Top\ 50\ Papel\ de\ Parede\ para\ Celular\ 4K\ Masculino\,\ Adulto\ e\ Infantil.jpeg");
+    }
+}
